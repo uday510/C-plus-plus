@@ -1,17 +1,22 @@
+// #include <ctime>
+// #include <iostream>
+
+// int main()
+// {
+//     std::time_t result = std::time(nullptr);
+//     std::cout << std::asctime(std::localtime(&result))
+//         << result << " seconds since the Epoch\n";
+// }
+
+
 #include <iostream>
 using namespace std;
 
+int main() {
 
-int main()
-{
-	int integer_array[4] = { 1, 2, 3, 4 };
+	 long long int myName = 2147483647;
 
-	for (int i = 0; i < integer_array.length; i++) {
-
-		cout << integer_array[i] << endl;
-	}
-	cout << integer_array;
-
+	printf(" %lld \n",myName );
 
 	return 0;
 }

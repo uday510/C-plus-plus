@@ -20,12 +20,23 @@ int main()
 	int another_array[4];
 
 	another_array[0] = 9;
+	another_array[1] = 19;
 	cout << "\n" << another_array[0] << "\n" << endl;
 	cout << another_array[1] << "\n" << endl;
 	cout << another_array[2] << "\n" << endl;
 	cout << another_array[3] << "\n" << endl;
 
+	*(another_array + 0) = 29;
 
+	cout << another_array[0] << endl;
+	cout << another_array[1] << endl;
+
+	int *ap = another_array;
+	ap++;
+	
+	*(ap + 0) = 30;
+	cout << another_array[1] << endl;
+	
 	return 0;
 }
 
