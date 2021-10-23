@@ -8,15 +8,24 @@ int main() {
 
     int i = 0;
 
-    while (i < 7) {
+    // while (i < 7) {
 
-        if ( i == 4) break;
-        cout << "\n CURRENT NUMBER IS : "<< my_numbers[i] <<endl;
+    //     if ( i == 4) {
+    //         i++;
+    //         continue;
+    //     }
+    //     cout << "CURRENT NUMBER IS : "<< my_numbers[i] <<endl;
+    //     i++;
+
+    // }
+
+    do
+    {
+        cout << "CURRENT NUMBER IS : "<< my_numbers[i] <<endl;
         i++;
+    } while (i < 7);
+    
 
-    }
-    
-    
     
     return 0;
 }
