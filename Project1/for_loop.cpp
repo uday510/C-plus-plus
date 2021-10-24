@@ -49,6 +49,19 @@ int main() {
             if (i != 0) cout <<"CURRENT: " << i << endl;
             
         }
+
+
+
+
+
+
     return 0; 
+
+
+
+
+
+
+
 
 }
