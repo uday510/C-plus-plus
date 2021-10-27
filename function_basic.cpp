@@ -2,26 +2,29 @@
 using namespace std;
 
 
+
 void sayHello() {
-    puts("\nHello World!");
-    
+    puts ("Hello There");
 }
-void sayTwo() {
-    puts("Two Hello World!");
+
+int  sayTwo () {
+
+    return 2;
 }
 
 void sayThree() {
+
     puts("3");
 }
+
 int main() {
    
-
    sayHello();
-   sayTwo();
+   cout <<  sayTwo() << endl;
    sayThree();
-   
    
     return 0;
 }
+
 
 

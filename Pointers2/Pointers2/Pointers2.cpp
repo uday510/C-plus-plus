@@ -10,7 +10,7 @@ int main() {
 	printf("Address of score is: %p \n", &score);
 	printf("Address of score is: %p \n", myp);
 	printf("Value of score is: %d \n", *myp);
-	printf("Adress of myp is: %p \n", &myp);
+	printf("Address of myp is: %p \n", &myp);
 	
 	int &another_score = score;
 

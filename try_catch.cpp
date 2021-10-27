@@ -4,22 +4,25 @@ using namespace std;
 int main() {
 
 
-    char call_api = 'g';
+    int call_api = 2;
 
     try {
-        cout << "Trying to use API call\n" << endl;
-        cout << "Did some testing with API call\n" << endl;
+        cout << "Trying to use API value" << endl;
+        cout << "Did something with API value" << endl;
+
+        if ( 2 != 3) {
+        cout<< "TESTING FAILED" << endl;
         throw call_api;
-        cout << "No code executes after return and throw" << endl;
-    }
-    catch (int x) {
-        cout << "Integer exception handling" << endl;
-    }
-    catch (float  x) {
-        cout << "Float  exception handling" << endl;
-    }
-    catch (...) {
+        cout << "NO CODE EXECUTE AFTER RETURN AND THROW." << endl;
+        }
+        else cout << "OK" << endl; 
+        
+     } catch(...)   {
         cout << "Something went wrong" << endl;
+    
     }
+    
+
+    cout << "KEEP ON MOVING WITH REST OF CODE" << endl;
     return 0;
 }
