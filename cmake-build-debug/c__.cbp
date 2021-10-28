@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="c__"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/UDAY/Desktop/c++/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/UDAY/Desktop/c++/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c__">
+				<Option output="C:/Users/UDAY/Desktop/c++/cmake-build-debug/c__.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/UDAY/Desktop/c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/UDAY/Desktop/c++/."/>
+					<Add directory="C:/Users/UDAY/Desktop/c++/Pointers/Pointers"/>
+					<Add directory="C:/Users/UDAY/Desktop/c++/Project1/Project1"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 c__"/>
+					<CompileFile command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c__/fast">
+				<Option output="C:/Users/UDAY/Desktop/c++/cmake-build-debug/c__.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/UDAY/Desktop/c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/UDAY/Desktop/c++/."/>
+					<Add directory="C:/Users/UDAY/Desktop/c++/Pointers/Pointers"/>
+					<Add directory="C:/Users/UDAY/Desktop/c++/Project1/Project1"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 c__/fast"/>
+					<CompileFile command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/UDAY/Desktop/c++/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/UDAY/Desktop/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/Array/Array/Array.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/Conditional/Conditional/Conditional.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/HelloWorld/HelloWorld/HelloWorld/HelloWorld.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/Integers/Integers/Integers.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/Pointers/Pointers/Pointers.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/Pointers/Pointers/main2.h">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/Pointers2/Pointers2/Pointers2.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/Project1/Project1/main.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/Project1/Project1/main.h">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/Project1/for_loop.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/basic_operations.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/bitwise_operator.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/dummy.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/dummy.h">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/enum.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/float.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/forWithPointer.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/for_and_foreach.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/function_basic.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/linker.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/loop_with_pointer/loop_with_pointer/loop_with_pointer.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/memory_leaks.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/static_keyword.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/strongly_typed.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/struct.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/switch.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/tempCodeRunnerFile.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/try_catch.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/try_catch/try_catch/try_catch.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/while.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="C:/Users/UDAY/Desktop/c++/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

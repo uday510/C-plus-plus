@@ -1,0 +1,137 @@
+[
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\Array\\Array\\Array.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\Array\\Array\\Array.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/Array/Array/Array.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\Conditional\\Conditional\\Conditional.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\Conditional\\Conditional\\Conditional.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/Conditional/Conditional/Conditional.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\HelloWorld\\HelloWorld\\HelloWorld\\HelloWorld.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\HelloWorld\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/HelloWorld/HelloWorld/HelloWorld/HelloWorld.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\Integers\\Integers\\Integers.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\Integers\\Integers\\Integers.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/Integers/Integers/Integers.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\loop_with_pointer\\loop_with_pointer\\loop_with_pointer.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\loop_with_pointer\\loop_with_pointer\\loop_with_pointer.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/loop_with_pointer/loop_with_pointer/loop_with_pointer.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\Pointers\\Pointers\\Pointers.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\Pointers\\Pointers\\Pointers.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/Pointers/Pointers/Pointers.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\Pointers2\\Pointers2\\Pointers2.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\Pointers2\\Pointers2\\Pointers2.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/Pointers2/Pointers2/Pointers2.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\Project1\\Project1\\main.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\Project1\\Project1\\main.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/Project1/Project1/main.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\Project1\\for_loop.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\Project1\\for_loop.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/Project1/for_loop.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\try_catch\\try_catch\\try_catch.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\try_catch\\try_catch\\try_catch.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/try_catch/try_catch/try_catch.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\basic_operations.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\basic_operations.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/basic_operations.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\bitwise_operator.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\bitwise_operator.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/bitwise_operator.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\dummy.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\dummy.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/dummy.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\enum.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\enum.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/enum.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\float.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\float.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/float.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\for_and_foreach.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\for_and_foreach.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/for_and_foreach.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\forWithPointer.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\forWithPointer.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/forWithPointer.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\function_basic.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\function_basic.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/function_basic.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\linker.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\linker.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/linker.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\memory_leaks.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\memory_leaks.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/memory_leaks.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\static_keyword.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\static_keyword.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/static_keyword.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\strongly_typed.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\strongly_typed.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/strongly_typed.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\struct.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\struct.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/struct.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\switch.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\switch.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/switch.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\tempCodeRunnerFile.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\tempCodeRunnerFile.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/tempCodeRunnerFile.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\try_catch.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\try_catch.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/try_catch.cpp"
+},
+{
+  "directory": "C:/Users/UDAY/Desktop/c++/build",
+  "command": "C:\\PROGRA~2\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe  @CMakeFiles/c__.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\c__.dir\\while.cpp.obj -c C:\\Users\\UDAY\\Desktop\\c++\\while.cpp",
+  "file": "C:/Users/UDAY/Desktop/c++/while.cpp"
+}
+]
