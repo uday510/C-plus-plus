@@ -47,6 +47,12 @@ int main() {
     cout << linux.getSecret() << endl        ;
 
     const User rock;        
-    cout << rock.getSecret() << endl;        
+    cout << rock.getSecret() << endl; 
+
+    User peter = linux;
+
+    cout <<peter.getSecret() << endl;
+
+    
     END;        
 }
